@@ -7,4 +7,4 @@ require (
 	github.com/tinyzimmer/go-glib v0.0.23
 )
 
-replace github.com/tinyzymmer/go-glib => github.com/Lavaerius/go-glib v0.0.24
+replace github.com/tinyzymmer/go-glib v0.0.23 => github.com/Lavaerius/go-glib v0.0.25
